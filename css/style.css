@@ -10,3 +10,10 @@
     height: 300px;
     background-color: rgb(7, 94, 65);
 }
+#contentDiv{
+    height: 300px;
+    background-color: rgb(3, 107, 72);
+}
+#footer .col-md-3{
+    background-color: red;
+}
