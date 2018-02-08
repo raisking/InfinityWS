@@ -1,0 +1,12 @@
+#mainBody{
+    height: 600px;
+    background-color: aquamarine;
+}
+#footer{
+    height: 100px;
+    background-color: aqua;
+}
+#header{
+    height: 300px;
+    background-color: rgb(7, 94, 65);
+}
